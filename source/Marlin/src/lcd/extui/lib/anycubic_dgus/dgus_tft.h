@@ -322,6 +322,7 @@
 #define KEY_PREHEAT_TO_PREPARE  1
 #define KEY_PREHEAT_PLA         2
 #define KEY_PREHEAT_ABS         3
+#define KEY_PREHEAT_PETG        4
 
 #define KEY_PREPARE_TO_FILAMENT  4
 #define KEY_FILAMENT_TO_PREPARE  1

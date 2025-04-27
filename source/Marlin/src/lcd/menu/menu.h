@@ -31,7 +31,7 @@
 
 
 #define DEVICE_NAME             "Anycubic Kobra Go"
-#define FIRMWARE_VER            "V1.3.4"
+#define FIRMWARE_VER            "V1.3.5 - Extended"
 #define BUILD_VOLUME            "220*220*250 (mm)"
 #define TECH_SUPPORT            "https://www.anycubic.com"
 

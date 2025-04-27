@@ -406,6 +406,7 @@ namespace Language_en {
   LSTR MSG_EN_STEPS                       = _UxGT("* Steps/mm");
   LSTR MSG_TEMPERATURE                    = _UxGT("Temperature");
 	LSTR MSG_PREHEAT_PLA				 						= _UxGT("Preheat PLA");     // "Temperature"
+  LSTR MSG_PREHEAT_PETG				 						= _UxGT("Preheat PETG");    // "Temperature"
 	LSTR MSG_PREHEAT_ABS				 						= _UxGT("Preheat ABS");     // "Temperature"
   LSTR MSG_MOTION                         = _UxGT("Motion");
   LSTR MSG_FILAMENT                       = _UxGT("Filament");
